@@ -22,8 +22,4 @@
     <ProjectReference Include="..\Menyoo.Application\Menyoo.Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Extensions\" />
-  </ItemGroup>
-
 </Project>
